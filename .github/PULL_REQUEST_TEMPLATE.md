@@ -1,26 +1,37 @@
-# Título da Pull Request
+### Título da Pull Request
 
-## Descrição
+### Tipo
+- [ ] Feature
+- [ ] Fix
+- [ ] Chore
+- [ ] Doc
+
+### Descrição
 [Descrição detalhada do que esta Pull Request está adicionando, corrigindo ou alterando.]
 
-## Problema Relacionado
-[Referência ao problema ou questão que esta Pull Request resolve.]
+### Links relacionados
+[Link da issue no Jira e outros links, se necessário]
 
-## Alterações Propostas
+### O que foi feito
 [Listagem das principais alterações realizadas nesta Pull Request.]
 
-## Testes Realizados
-[Descrição dos testes realizados para garantir a qualidade das alterações.]
+### Como testar
+[Descrição de como testar a mudança realizada]
 
-## Capturas de tela (se aplicável)
-[Se as alterações incluem alterações visuais, adicione capturas de tela aqui.]
+### Evidências (capturas de tela)
+[Prints de tela ou video com todos os cenários de testes abordados na task]
 
-## Checklist de Revisão
-- [ ] As alterações foram testadas localmente.
-- [ ] As alterações respeitam as diretrizes de estilo do projeto.
-- [ ] Todos os testes passaram.
-- [ ] Quaisquer dependências novas foram documentadas.
-- [ ] A documentação existente foi atualizada (se aplicável).
+### Checklist para Code Review (deve ser preenchida pelo revisor)
+ - [ ] A descrição do Pull Request está clara
+ - [ ] O objetivo foi atendido
+ - [ ] O time técnico e produto estão alinhados e confortáveis em relação ao objetivo
+ - [ ] O nome da branch e mensagem commit está correto
+ - [ ] Foi incluso no commit somente o que foi modificado
+ - [ ] Os testes antigos e novos estão passando 100%
+ - [ ] Há coverage 100% para tudo que foi modificado
+ - [ ] O código está claro e atendendo às regras de Clean Code
+ - [ ] Se houve mudança de regra de negócio, foi modificado documentação
+ - [ ] Se houve mudanças de assinatura, o swagger foi modificado
 
-## Observações Adicionais
+### Observações Adicionais
 [Qualquer informação adicional relevante.]
